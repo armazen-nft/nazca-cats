@@ -30,4 +30,12 @@ Você confirma o deploy na MetaMask. Depois registre endereço do contrato e has
 
 Para emitir 1 NFT, envie VALUE `1000000000000000 wei` e chame `mint(1)`. A MetaMask mostra taxa de gas adicional. O saldo é acumulado para o caixa; `withdraw()` só envia para o endereço fixo acima. Royalties de 10% são declarados em ERC-2981; dependem de implementação do marketplace na revenda.
 
-Este roteiro não significa contrato implantado. Nenhuma transação foi enviada à Sepolia durante a preparação.
+## Implantação informada pelo usuário em 3 de outubro de 2026
+
+Contrato: `0x6f25b249bb153181cf6ce6453e7ebc3df8b4e84f`.
+
+Transação: `0x4582d2ab6e7beba9edb1fe7699c6eac8cd6cff7ebbb4ea1dadc66e6bb5a48ad2`.
+
+O comprovante fornecido informa Success no bloco 11837008. Registro em [deployments/sepolia.json](deployments/sepolia.json). A consulta independente ao explorador/RPC não ficou disponível nesta sessão; configurações e bytecode implantados ainda não foram conferidos na rede.
+
+Próximas verificações no Remix: `owner()`, `projectTreasury()`, `mintBaseValue()`, `mintFee()` e `saleActive()`. Só depois abrir a emissão de teste. Não congele os metadados provisórios.
