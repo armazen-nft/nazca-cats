@@ -1,0 +1,16 @@
+{
+  "network": "ethereum-sepolia",
+  "chainId": 11155111,
+  "contractAddress": "0x6f25b249bb153181cf6ce6453e7ebc3df8b4e84f",
+  "transactionHash": "0x4582d2ab6e7beba9edb1fe7699c6eac8cd6cff7ebbb4ea1dadc66e6bb5a48ad2",
+  "deployer": "0x7464051f8E189C34F516e7e3f6d1935e56788424",
+  "blockNumber": 11837008,
+  "statusReported": "success",
+  "source": "Etherscan transaction details supplied by user",
+  "independentlyVerified": false,
+  "transactionFeeReportedEth": "0.008531238583558239",
+  "expectedMintBaseValueWei": "10000000000000000",
+  "expectedMintFeeWei": "1000000000000000",
+  "metadataStatus": "provisional; images and final metadata not published",
+  "explorerUrl": "https://sepolia.etherscan.io/address/0x6f25b249bb153181cf6ce6453e7ebc3df8b4e84f"
+}
