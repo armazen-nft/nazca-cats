@@ -1,0 +1,10 @@
+{
+  "size": [1536, 1024],
+  "description": "Gato inspirado no geoglifo de Nazca; mesma pose e contorno em toda a coleção.",
+  "layers": [
+    {"name": "Fundo", "variants": [{"name": "Azul", "file": "layers/background-blue.png"}]},
+    {"name": "Pelagem", "variants": [{"name": "Dourada", "file": "layers/fur-gold.png"}]},
+    {"name": "Olhos", "variants": [{"name": "Verdes", "file": "layers/eyes-green.png"}]},
+    {"name": "Contorno", "variants": [{"name": "Nazca original", "file": "layers/master-outline.png"}]}
+  ]
+}

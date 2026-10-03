@@ -1,0 +1,23 @@
+{
+  "name": "nazca-cats",
+  "version": "1.0.0",
+  "description": "Cole\u00e7\u00e3o ERC-721 de 5000 gatos de Nazca para Remix",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/contract.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@openzeppelin/contracts": "5.0.2",
+    "ethers": "6.13.5",
+    "ganache": "7.9.2",
+    "solc": "0.8.24"
+  },
+  "private": true
+}

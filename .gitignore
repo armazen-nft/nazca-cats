@@ -1,0 +1,8 @@
+node_modules/
+build/
+__pycache__/
+output/
+staging/
+final/
+.env
+*.log

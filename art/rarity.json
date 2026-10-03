@@ -1,0 +1,12 @@
+{
+  "supply": 5000,
+  "animated_total": 250,
+  "animated_percentage": 5,
+  "status": "production_plan_not_completed_collection",
+  "tiers": [
+    {"name": "Comum", "count": 3500, "percentage": 70, "png": 3500, "gif": 0},
+    {"name": "Incomum", "count": 1000, "percentage": 20, "png": 1000, "gif": 0},
+    {"name": "Raro", "count": 400, "percentage": 8, "png": 200, "gif": 200},
+    {"name": "Lendario", "count": 100, "percentage": 2, "png": 50, "gif": 50}
+  ]
+}
